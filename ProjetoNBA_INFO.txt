@@ -1,0 +1,10 @@
+aqui esta ELT do projeto NBA
+
+-> analise dos salários dos jogadores atraves da exploração, limpeza, tratamento de dados
+-> juntamento para expor melhor as condições do tema esta incluso
+os dados no power BI edit 
+
+-> A ideia realizada é em questões dos estados, colegios, times, etc
+que cada jogador representa, dando enfâse a valorização ao esporte
+e a faixa salarial representado pelo pais USA como como potencia na
+area do basquete.
